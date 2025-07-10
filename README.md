@@ -33,10 +33,8 @@ A fun, cool calculator app with vibrant UI built using Tkinter and Flask.
 ---
 
 ## 🔗 Connect With Me  
-- 🌐 [Portfolio Website](#)  
-- 💼 [LinkedIn](#)  
-
-> _Replace the `#` with your actual links!_
+- 🌐 [Portfolio Website](https://yashitiwary.github.io/Portfolio/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashi-tiwari-b437b6293)  
 
 ---
 
